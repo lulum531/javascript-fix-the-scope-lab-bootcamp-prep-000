@@ -8,7 +8,6 @@ function yourAnimal() {
   return animal
 }
 function yourAnimal(yourAnimal) {
-  yourAnimal = yourAnimal();
   console.log('yourAnimal')
 }
 

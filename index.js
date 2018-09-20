@@ -4,7 +4,8 @@ function myAnimal() {
   return animal
 }
 
-function yourAnimal(yourAnimal) {
+function yourAnimal() {
+  var yourAnimal = 'cat';
   console.log('yourAnimal')
 }
 

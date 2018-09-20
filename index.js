@@ -4,12 +4,16 @@ function myAnimal() {
   return animal
 }
 
+<<<<<<< HEAD
 function yourAnimal() {
   var animal = 'cat'
+=======
+function yourAnimal(yourAnimal) {
+>>>>>>> 7cb25e84293ba19ae91234971b10aa1cf2663aba
   // How can we make sure that this function
   // and the above function both pass?
   // P.S.: You can't just hard-code 'cat' below
-  return animal
+  console.log('yourAnimal')
 }
 
 function add2(n) {

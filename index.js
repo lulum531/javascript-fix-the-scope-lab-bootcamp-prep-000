@@ -6,7 +6,6 @@ function myAnimal() {
 
 function yourAnimal() {
   var animal = 'cat'
-  console.log('animal')
 }
 function yourAnimal(yourAnimal) {
   // How can we make sure that this function
